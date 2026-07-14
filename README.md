@@ -20,13 +20,13 @@ Aksara Nusantara is an open-source ecosystem dedicated to preserving, learning, 
 
 ---
 
-## ❤️ Support
+## ❤️ Support (Comming Soon)
 
 If you like this project, consider becoming an Early Supporter.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing (Comming Soon)
 
 Contributions are always welcome.
 
